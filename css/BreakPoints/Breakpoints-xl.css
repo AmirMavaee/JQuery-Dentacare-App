@@ -1,0 +1,71 @@
+@media only screen and (min-width: 1200px){
+    .menu-lg-container{
+        max-width: 1140px;
+        margin-top: 2rem !important;
+    }
+    .owl-carousel-container {
+        max-width: 1140px;
+        padding-right: 33rem !important;
+    }
+    .informatiom-container{
+        max-width: 1140px;
+    }
+
+    .services-container{
+        max-width: 1140px ;
+    }
+
+    .experience-container{
+        max-width: 1140px ;
+    }
+
+    .experience-header{
+        padding: 0 15rem !important;
+    }
+
+    .experience-doctors >div >div{
+        padding: 19px !important;
+    }
+    
+    .experience-doctors > p{
+        padding-right: 21.5rem !important;
+    }
+
+    .achievements-header h3{
+        font-size: 30px;
+    }
+
+    .price-container{
+        max-width: 1140px ;
+    }
+
+    .price-header{
+        padding: 0 15rem !important;
+    }
+
+    .price-number button {
+        left: calc(50% - 102.93px) !important;
+    }
+
+    .blog-container{
+        max-width: 1140px ;
+    }
+
+    .person-mainText p {
+        width: 240px;
+    }
+
+    .blog-header{
+        padding-left: 16rem !important;
+        padding-right: 16rem !important;
+    }
+
+    .quote-form .row > input:nth-child(1){
+        margin-right: 2.65rem !important;
+    }
+
+    .footer-container{
+        max-width: 1140px;
+    }
+
+}

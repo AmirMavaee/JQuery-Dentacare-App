@@ -1,0 +1,86 @@
+@media only screen and (min-width: 992px){
+    .owl-carousel-container{
+        max-width: 960px;
+        padding: 0 29rem 0 15px !important;
+    }
+    .informatiom-container{
+        max-width: 960px;
+        padding: 0 15px !important;
+    }
+
+    .services-container{
+        max-width: 960px ;
+    }
+
+    .personal-touch-image{
+        background-size: 1000px;
+    }
+
+    .experience-container{
+        max-width: 960px ;
+    }
+
+    .experience-header{
+        padding: 0 12rem !important;
+    }
+
+    .experience-doctors >div >div{
+        padding: 6px !important;
+    }
+
+    .experience-doctors > p{
+        padding-right: 18rem !important;
+    }
+
+    .achievements,.achievements-container,.achievements-header{
+        height: 17rem;
+    }
+
+
+    .price-container{
+        max-width: 960px ;
+    }
+
+    .price-header{
+        padding: 0 12rem !important;
+    }
+
+    .price-number button {
+        left: calc(50% - 86px) !important;
+    }
+
+    .blog-container{
+        max-width: 960px ;
+    }
+
+    .person-mainText p {
+        width: 190px;
+    }
+
+    .blog-header{
+        padding-left: 12rem !important;
+        padding-right: 12rem !important;
+    }
+
+    .quote-form .row > input:nth-child(1){
+        margin-right: 2.2rem !important;
+    }
+
+    .footer-container{
+        max-width: 960px;
+        padding: 20px !important;
+    }
+
+    .person-body{
+        width: calc(100% - 90px);
+    }
+
+    .person1-image,.person2-image{
+        width: 85px;
+    }
+
+    .rounded-circle:nth-child(2){
+        margin: 0 2rem !important;
+    }
+
+}

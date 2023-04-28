@@ -1,0 +1,5 @@
+@media only screen and (max-width: 500px){
+    .testimony-container > div:nth-child(3){
+        padding-top: 3rem;
+    }
+}
